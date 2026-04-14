@@ -1,0 +1,12 @@
+{
+  "appName": "habit-sprint",
+  "repo": "hjukes99/habit-sprint",
+  "sessions": [
+    {
+      "id": "2894489699905072696",
+      "createdAt": "2026-04-12T08:05:00Z",
+      "status": "Planning",
+      "prompt": "Codex Lab: Habit Sprint — implement the top 3 TODO items from TODO.md."
+    }
+  ]
+}
